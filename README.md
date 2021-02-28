@@ -1,6 +1,7 @@
 # FluidTracker
 
-This project is completely separate from Tambre's by accident, but I was able to get expo working easily with these files. To get a build running, just do this:
+Project Members:
+- Tambre Hu
 
     go to FluidTracker in your terminal or CommandPrompt
     type in 'npm start' and click enter
