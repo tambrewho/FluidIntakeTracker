@@ -6,7 +6,11 @@ Project Members:
 - Casilda Lewis
 - Sanjana Tarigoppula
 - Harsh Thakkar
+<<<<<<< HEAD
 - Stephen Zhao
+=======
+- Huan Xu
+>>>>>>> f95a73f7405252586e791bb0d8d16aa2b9393ffb
 
   go to FluidTracker in your terminal or CommandPrompt
   type in 'npm start' and click enter
